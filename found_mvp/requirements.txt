@@ -3,3 +3,9 @@ uvicorn[standard]
 pymongo
 python-dotenv
 httpx
+flask
+flask_cors
+pydantic
+google-cloud-aiplatform>=1.38.1
+google-auth
+vertexai
